@@ -9,6 +9,7 @@
 #include <NiFpga.h>
 
 #include <stdio.h>
+#include <stdint.h>
 
 
 #define BitFilepath         "C:/Bitfiles/Multirecord_Acquisition_NI_PXIe-5171R_8CH.lvbitx"
