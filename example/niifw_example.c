@@ -1,4 +1,3 @@
-// NIIFW_example.cpp
 // This example demonstrates how to use the NI-IFW library to communicate with an FPGA board.
 // Copyright (c) 2022,
 // National Instruments Corporation.
@@ -12,7 +11,7 @@
 #include <stdio.h>
 
 
-#define BitFilepath         "C:/Users/Administrator/Desktop/Multirecord_Acquisition_NI_PXIe-5171R_8CH.lvbitx"
+#define BitFilepath         "C:/Bitfiles/Multirecord_Acquisition_NI_PXIe-5171R_8CH.lvbitx"
 #define BitFileSignature    "BBAB0C3658C0FCD270F5D0C7FBAE2DF7"
 #define DevicePath          "PXI1Slot2"
 
